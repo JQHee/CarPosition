@@ -1,0 +1,32 @@
+PODS:
+  - AMap3DMap (5.5.0):
+    - AMapFoundation (~> 1.3)
+  - AMapFoundation (1.4.2)
+  - AMapLocation (2.5.0):
+    - AMapFoundation (~> 1.4)
+  - AMapSearch (5.5.0):
+    - AMapFoundation (~> 1.4)
+  - SnapKit (4.0.0)
+  - Starscream (3.0.2)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - AMap3DMap
+  - AMapLocation
+  - AMapSearch
+  - SnapKit (~> 4.0.0)
+  - Starscream (~> 3.0.2)
+  - SwiftyJSON (~> 4.0.0)
+
+SPEC CHECKSUMS:
+  AMap3DMap: 548723d9646c082b7d9b6102a8b070f712d83924
+  AMapFoundation: 6c0471c9a6a0ad17dad46e3d800ad56ca170f82a
+  AMapLocation: d02bd8c0081b0bc51b2e4cf89925ef57448263c9
+  AMapSearch: dc9958acfb61b58dcbce79736bf14a39dde7506f
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Starscream: b512c62f6706421221b5ceb2ba01a9f58aca5bea
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 8b025a7256dc58f6f8ba546c409c3af03f519c37
+
+COCOAPODS: 1.4.0.beta.2

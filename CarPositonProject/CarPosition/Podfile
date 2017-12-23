@@ -1,0 +1,15 @@
+platform :ios, '8.0'
+use_frameworks!
+inhibit_all_warnings!
+
+
+target 'CarPosition' do
+
+  pod 'Starscream', '~> 3.0.2'
+  pod 'AMap3DMap'
+  pod 'AMapSearch'
+  pod 'AMapLocation'
+  pod 'SwiftyJSON', '~> 4.0.0'
+  pod 'SnapKit', '~> 4.0.0'
+
+end
